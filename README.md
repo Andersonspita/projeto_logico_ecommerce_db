@@ -1,0 +1,1 @@
+# projeto_logico_ecommerce_db
